@@ -5,6 +5,7 @@ var About = (props) => {
     <div>
       <h3>About</h3>
       <p>This is the About Page</p>
+      <p>More about content</p>
     </div>
 
   )
